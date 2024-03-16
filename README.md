@@ -57,3 +57,10 @@ node scripts/1-initialize-sdk.js
 ```
 🌊 Successfully Minted! Check it out on OpenSea: https://testnets.opensea.io/assets/base-sepolia/0xA9f4136be8c64fD799b405f5880B07116cc3D076/0
 ```
+
+### 5-deploy-token.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Módulo de token implantado com sucesso. Endereço: 0x7324De0Bb0aAD8b1A86bA6fB5a334BB08D26c603
+```

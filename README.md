@@ -38,9 +38,16 @@ node scripts/1-initialize-sdk.js
 }
 ```
 
-### scripts/3-config-nft.js
+### 3-config-nft.js
 
 ```
 👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
 ✅ Novo NFT criado com sucesso!
+```
+
+### 4-set-claim-condition.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Condições de reinvidicação configuradas com sucesso!
 ```

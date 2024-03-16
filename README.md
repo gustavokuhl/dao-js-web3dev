@@ -37,3 +37,10 @@ node scripts/1-initialize-sdk.js
   symbol: ''
 }
 ```
+
+### scripts/3-config-nft.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Novo NFT criado com sucesso!
+```

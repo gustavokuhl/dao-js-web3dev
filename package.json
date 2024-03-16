@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "@thirdweb-dev/react": "^3.5.1",
-    "@thirdweb-dev/sdk": "^3.5.1",
+    "@thirdweb-dev/react": "^4.4.20",
+    "@thirdweb-dev/sdk": "^4.0.47",
     "browserify-zlib": "^0.2.0",
     "ethers": "^5.6.6",
     "magic-sdk": "^19.3.0",
@@ -46,6 +46,7 @@
     "react-app-rewired": "^2.2.1",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.2.0",
+    "tailwindcss": "^3.4.1",
     "url": "^0.11.1",
     "webpack": "^5.88.2",
     "webpack-cli": "^4.10.0"

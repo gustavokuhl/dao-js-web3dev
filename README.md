@@ -80,3 +80,10 @@ node scripts/1-initialize-sdk.js
 🌈 Começando o airdrop...
 ✅ Feito o airdrop de tokens para todos os donos de NFT!
 ```
+
+### 8-deploy-vote.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Módulo de votos implantado com sucesso no endereço: 0x804eF932eae86F18917218D481012C2642dc26CD
+```

@@ -87,3 +87,11 @@ node scripts/1-initialize-sdk.js
 👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
 ✅ Módulo de votos implantado com sucesso no endereço: 0x804eF932eae86F18917218D481012C2642dc26CD
 ```
+
+### 9-setup-vote.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Módulo de votos recebeu permissão de manipular os tokens com sucesso
+✅ Transferiu 897414.3 tokens para o módulo de votos com sucesso
+```

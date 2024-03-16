@@ -64,3 +64,10 @@ node scripts/1-initialize-sdk.js
 👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
 ✅ Módulo de token implantado com sucesso. Endereço: 0x7324De0Bb0aAD8b1A86bA6fB5a334BB08D26c603
 ```
+
+### 6-print-money.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Agora temos 1000000.0 $PREN em circulação
+```

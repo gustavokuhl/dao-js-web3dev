@@ -71,3 +71,12 @@ node scripts/1-initialize-sdk.js
 👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
 ✅ Agora temos 1000000.0 $PREN em circulação
 ```
+
+### 7-airdrop-token.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Vai enviar 2873 tokens para  0xaf83f96944ceda6052AB0B9F78adFEb7661A6Ed7
+🌈 Começando o airdrop...
+✅ Feito o airdrop de tokens para todos os donos de NFT!
+```

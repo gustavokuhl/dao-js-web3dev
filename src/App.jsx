@@ -42,6 +42,7 @@ const App = () => {
             </div>
 
             <Membros hasClaimedNFT={hasClaimedNFT} />
+            <Propostas hasClaimedNFT={hasClaimedNFT} />
           </>
         ) : (
           <>

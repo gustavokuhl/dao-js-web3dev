@@ -103,3 +103,31 @@ node scripts/1-initialize-sdk.js
 ✅ Proposta de cunhar tokens criada com sucesso!
 ✅ Proposta de dar prêmio do tesouro para si mesmo criada com sucesso, vamos torcer para votarem sim!
 ```
+
+### 11-revoke-roles.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+👀 Papeis que existem agora: {
+  admin: [ '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d' ],
+  minter: [
+    '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d',
+    '0x804eF932eae86F18917218D481012C2642dc26CD'
+  ],
+  transfer: [
+    '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d',
+    '0x0000000000000000000000000000000000000000'
+  ],
+  metadata: []
+}
+🎉 Papeis depois de remover nós mesmos {
+  admin: [],
+  minter: [],
+  transfer: [
+    '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d',
+    '0x0000000000000000000000000000000000000000'
+  ],
+  metadata: []
+}
+✅ Revogados nossos super-poderes sobre os tokens ERC-20
+```

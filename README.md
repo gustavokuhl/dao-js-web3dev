@@ -95,3 +95,11 @@ node scripts/1-initialize-sdk.js
 ✅ Módulo de votos recebeu permissão de manipular os tokens com sucesso
 ✅ Transferiu 897414.3 tokens para o módulo de votos com sucesso
 ```
+
+### 10-create-vote-proposals.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+✅ Proposta de cunhar tokens criada com sucesso!
+✅ Proposta de dar prêmio do tesouro para si mesmo criada com sucesso, vamos torcer para votarem sim!
+```

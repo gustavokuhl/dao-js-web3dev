@@ -131,3 +131,37 @@ node scripts/1-initialize-sdk.js
 }
 ✅ Revogados nossos super-poderes sobre os tokens ERC-20
 ```
+
+### 12-executing-proposals.js
+
+```
+👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
+Total de propostas:  [
+  {
+    proposalId: BigNumber {
+      _hex: '0x2a02248ff6be33a5c82fbf0fead9a379080dc40ed75f52cb3ab8849682fabc20',
+      _isBigNumber: true
+    },
+    proposer: '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d',
+    description: 'Cunhar para a DAO uma quantidade adicional de 420000 tokens no tesouro?',
+    startBlock: BigNumber { _hex: '0x712282', _isBigNumber: true },
+    endBlock: BigNumber { _hex: '0x713c2c', _isBigNumber: true },
+    state: 1,
+    votes: [ [Object], [Object], [Object] ],
+    executions: [ [Object] ]
+  },
+  {
+    proposalId: BigNumber {
+      _hex: '0x41ce616d3af7563267c4d504bde5f6ee0bf9b843e9853cb1ce3479f8d4144dc4',
+      _isBigNumber: true
+    },
+    proposer: '0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d',
+    description: 'A DAO deveria transferir 6900 tokens do tesouro para 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d por ser uma pessoa incrível?',
+    startBlock: BigNumber { _hex: '0x712285', _isBigNumber: true },
+    endBlock: BigNumber { _hex: '0x713c2f', _isBigNumber: true },
+    state: 1,
+    votes: [ [Object], [Object], [Object] ],
+    executions: [ [Object] ]
+  }
+]
+```

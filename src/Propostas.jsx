@@ -1,9 +1,7 @@
 import { useAddress, useContract } from "@thirdweb-dev/react"
 import { AddressZero } from "@ethersproject/constants"
 import { useEffect, useState } from "react"
-
-const VOTE_CONTRACT_ADDRESS = "0x804eF932eae86F18917218D481012C2642dc26CD"
-const ERC_20_CONTRACT_ADDRESS = "0x7324De0Bb0aAD8b1A86bA6fB5a334BB08D26c603"
+import { ERC_20_CONTRACT_ADDRESS, VOTE_CONTRACT_ADDRESS } from "./constants"
 
 function Propostas({ hasClaimedNFT }) {
   const address = useAddress()

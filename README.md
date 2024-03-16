@@ -51,3 +51,9 @@ node scripts/1-initialize-sdk.js
 👋 SDK inicializado pelo endereço: 0x6ad1BB9DE62B004AEcdaB504F5C6Ec18f494D08d
 ✅ Condições de reinvidicação configuradas com sucesso!
 ```
+
+### React claim NFT
+
+```
+🌊 Successfully Minted! Check it out on OpenSea: https://testnets.opensea.io/assets/base-sepolia/0xA9f4136be8c64fD799b405f5880B07116cc3D076/0
+```

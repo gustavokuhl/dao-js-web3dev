@@ -1,5 +1,4 @@
 import sdk from "./1-initialize-sdk.js"
-
 ;(async () => {
   try {
     const voteContractAddress = await sdk.deployer.deployVote({
@@ -8,7 +7,7 @@ import sdk from "./1-initialize-sdk.js"
       voting_delay_in_blocks: 0,
       voting_period_in_blocks: 6570, // 1 dia
       voting_quorum_fraction: 0,
-      proposal_token_threshold: 1,
+      proposal_token_threshold: 0,
     })
 
     console.log(
